@@ -2,7 +2,7 @@
    :root {
      font-size: 14px;
    }
-   }
+}
    :root {
      font-size: 16px;
    }
@@ -13,7 +13,7 @@ body {
  background-color: #FFF;
  padding: 0;
  margin: 0;
- font-size:10pt;
+ font-size: 1.2rem;
  }
  .cabecalho {
  text-align: center;
@@ -24,7 +24,7 @@ body {
  }
  .PMSCS {
  text-align: center;
- font-size: 32px;
+ font-size: 2rem;
  }
  nav {
  display: flex;
@@ -49,25 +49,25 @@ body {
  transition: .3s;
  }
  h1 {
- font-size: 32px;
+ font-size: 2rem;
  }
  .maintext {
  margin-bottom: 20px;
  }
  .maintext h4 {
  text-align:center;
- font-size:22px;
+ font-size:1.3rem;
  color:#283576;
  }
  .maintext h6 {
    text-align: center;
-   font-size: 15px;
+   font-size: 1rem;
    color: #000;
  }
  .maintext p {
  color:#000;
  font-family:arial;
- font-size:12pt;
+ font-size:0.75rem;
  }
   .maintext p ODS{
  color:#283576;
@@ -98,7 +98,7 @@ body {
  align-items:center;
  }
  .rodape-titulo {
-    font-size: 15pt;
+    font-size: 2rem;
     font-weight: bold;
     text-align:center;
     color: #CCCCCC;
